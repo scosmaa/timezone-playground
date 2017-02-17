@@ -1,0 +1,23 @@
+{
+  "name": "timezone-playground",
+  "homepage": "https://github.com/scosmaa/timezone-playground",
+  "authors": [
+    "scosmaa <scosmaa@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "moment": "momentjs#^2.17.1"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.11"
+  }
+}
